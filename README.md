@@ -1,2 +1,2 @@
-# LAN-Communication
-LAN-Communication-Based-on-Qt 
+# Client-Relationship-Manager
+Client-Relationship-Manager-Based-on-Qt 
